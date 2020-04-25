@@ -1,0 +1,12 @@
+title: Código de conduta idvogados
+# description: Uma comunidade voluntária
+# logo: [Location of the logo]
+show_downloads: false
+# google_analytics: [Your Google Analytics tracking ID]
+# plugins:
+#   - jekyll-relative-links
+# relative_links:
+#   enabled: true
+#   collections: true
+include:
+  - CODE_OF_CONDUCT.md
