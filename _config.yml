@@ -9,5 +9,5 @@ show_downloads: false
 #   enabled: true
 #   collections: true
 include:
-  - CODE_OF_CONDUCT.md
+  - README.md
 theme: jekyll-theme-cayman
